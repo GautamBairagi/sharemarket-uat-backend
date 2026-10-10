@@ -53,6 +53,7 @@ const ALLOWED_ORIGINS = [
     'https://trading-software112.netlify.app',
     'https://app.shrishreenathjiglobaltraders.com',
     'https://sahare-marketing-7-sep.netlify.app',
+    'https://uat-aws-share-marketing.netlify.app'
     process.env.FRONTEND_URL
 ].filter(Boolean);
 
